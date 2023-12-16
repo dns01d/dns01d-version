@@ -1,0 +1,10 @@
+{
+  "dns01d": {
+    "release": null,
+    "url": "https://github.com/dns01d/dns01d"
+  },
+  "dns01d-cf": {
+    "release": "0.0.1",
+    "url": "https://github.com/dns01d/dns01d-cf"
+  }
+}
