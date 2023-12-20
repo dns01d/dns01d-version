@@ -3,8 +3,8 @@
     "release": null,
     "url": "https://github.com/dns01d/dns01d"
   },
-  "dns01d-cf": {
+  "dns01cf": {
     "release": "0.0.1",
-    "url": "https://github.com/dns01d/dns01d-cf"
+    "url": "https://github.com/dns01d/dns01cf"
   }
 }
